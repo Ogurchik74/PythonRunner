@@ -1,0 +1,4 @@
+*.dll
+*.pyd
+*.txt
+python.exe
